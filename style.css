@@ -25,3 +25,22 @@
     margin-right: auto;
     width: 40%;
   }
+
+.esp{
+    color:whitesmoke;
+    background-color: steelblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.esp.d {
+    background-color: aquamarine;
+
+}
+
+.esp.i {
+    background-color: burlywood;
+}
+
+.esp.s{
+    background-color: cadetblue;
+}
