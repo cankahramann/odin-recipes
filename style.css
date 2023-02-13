@@ -1,0 +1,27 @@
+* {background-color:beige}
+
+
+.mainheader{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(192, 112, 54);
+    background-color: rgba(245, 222, 179,70%);
+    text-align: center;
+}
+
+.list {
+    text-align: center;
+    list-style-position: inside
+}
+
+#b{
+    background-color: rgb(177, 62, 20);
+    color: rgb(250, 250, 250);
+    font-weight: normal;
+}
+
+.img_main {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
